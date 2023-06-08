@@ -13,3 +13,4 @@ sell
 09528d6b-7d4f-4cc2-8611-8bbecb33785c
 
 also, I flipped the bits on these 
+https://github.com/bdincerTrader/Live-Testing/blob/main/updated.md
